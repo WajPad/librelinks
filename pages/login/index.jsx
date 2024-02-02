@@ -7,7 +7,7 @@ export default function Login() {
   return (
     <>
       <Head>
-        <title>Librelinks | Login</title>
+        <title>ALTDigital | Login</title>
       </Head>
       <div className="absolute inset-0 -z-10 h-full w-full bg-white bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] flex  items-center justify-center ">
         <div className="z-10 w-full max-w-md overflow-hidden rounded-2xl border border-gray-100 shadow-xl">
@@ -17,7 +17,7 @@ export default function Login() {
             </Link>
             <h3 className="text-xl font-semibold">Sign in to your account</h3>
             <p className="text-sm text-gray-500">
-              Start transforming your online presence✨
+              Make Your Smart Link Today!
             </p>
           </div>
           <Form type="login" />
