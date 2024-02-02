@@ -19,7 +19,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Librelinks | A free & opensource link in bio tool</title>
+        <title>ALTDigital | Make Own Smart Link!</title>
         {/* <!-- Open Graph (OG) meta tags --> */}
         <meta property="og:url" content="https://librelinks.vercel.app/" />
         <meta property="og:url" content="https://librelinks.me/" />
