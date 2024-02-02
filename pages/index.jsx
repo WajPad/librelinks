@@ -29,10 +29,10 @@ const Home = () => {
           property="og:site_name"
           content="Librelinks - The free & opensource link in bio tool"
         />
-        <meta property="og:title" content="Librelinks" />
+        <meta property="og:title" content="ALTDigital" />
         <meta
           property="og:description"
-          content="Librelinks is an opensource link in bio tool that helps you easily manage your links, transforming your online presence."
+          content="ALTDigital is Free Smart Link Creator Tool that helps you easily manage your links, transforming your online presence."
         />
         <meta
           property="og:image"
